@@ -1,5 +1,5 @@
 #<h1 align="center">Hi 👋, I'm Prarthana Prasad</h1>
-<h3 align="center">I'm a passionate UI/UX and Web Developer</h3>
+<h3 align="center">I'm CS and AI/ML student at CalPoly SLO </h3>
 
 - 📫 How to reach me **pprarthana0808@gmail.com**
 
